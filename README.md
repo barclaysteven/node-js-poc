@@ -1,2 +1,2 @@
 # node-js-poc
-proof of concept for learning node.js
+Proof of concept for learning node.js
